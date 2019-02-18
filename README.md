@@ -25,8 +25,6 @@ We want to make the system robust and simple. We did not find API's that satisfy
 # Track for which you’re submitting (Open or Impact)
 Impact
 
-# All Bounties Completed/Incorporated
-
 # A link to all your source code on a public repo (i.e. Github)
 https://github.com/jassiay/BitBrt
 
